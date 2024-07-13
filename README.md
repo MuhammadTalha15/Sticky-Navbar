@@ -2,4 +2,4 @@
 
 ## Demo
 
-Check out the live demo [here](http://muhammadtalha15.github.io/Todo-List-App/).
+Check out the live demo [here](https://muhammadtalha15.github.io/Sticky-Navbar/).
