@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 .mn{
@@ -72,4 +73,53 @@ ul li .anchor-active{
 ul li .anchor:hover{
     background-color: #fff;
     color: #000;
+}
+
+ul li a.active{
+    background-color: #fff;
+    color: #000;
+}
+
+.first{
+    height: 100vh;
+    width: 100%;
+    background-color: palegreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+
+.second{
+    height: 100vh;
+    width: 100%;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+
+.third{
+    height: 100vh;
+    width: 100%;
+    background-color: forestgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+
+.four{
+    height: 100vh;
+    width: 100%;
+    background-color: sandybrown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    font-family: sans-serif;
 }
